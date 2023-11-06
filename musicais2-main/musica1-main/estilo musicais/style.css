@@ -1,0 +1,33 @@
+.estilos_musicais{
+    background: #000000;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.estilos_h{
+    color: #F5FA01;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.lista_estilos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item{
+    margin: 20px 13px;
+}
+
+.link{
+    color: #F5FA01;
+    background-color: #7E6F78;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 18px;
+}
+    
